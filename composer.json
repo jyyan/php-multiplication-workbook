@@ -1,0 +1,14 @@
+{
+    "name": "jyyan/shipment_pdf",
+    "type": "project",
+    "authors": [
+        {
+            "name": "JunYuan Yan",
+            "email": "jyyan.tw@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.6",
+        "mpdf/mpdf": "^7.1"
+    }
+}
